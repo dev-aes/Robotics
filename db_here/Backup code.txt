@@ -1,0 +1,35 @@
+		<div class="row">
+                <div class="col-md-6 grid-margin stretch-card justify-content-center card bg-gradient-danger">
+                    <center><img src="images/tup_logo.png" alt="TUP logo" style="height: 380px; width: 380px;"></center>
+                </div>
+                <div class="col-md-6 grid-margin transparent">
+                    <div class="row">
+                        <div class="col-md-12 mb-4 stretch-card transparent">
+                            <div class="card bg-gradient-danger">
+                                <div class="card-header">
+                                    <p class="mb-2"><center><b>TUP Mission</b></center></p>
+                                </div>
+                                <div class="card-body" style="background-color: rgba(245, 245, 245, 0.4)">
+                                    <p class="mb-4">The University shall provide higher and advanced vocational, technical, industrial,
+                                        technological and professional education and training in industries and technology, and in practical arts leading to certificates,
+                                        diplomas and degrees. It shall provide progressive leadership in applied research, developmental studies in technical, industrial,
+                                        and technological fields and production using indigenous materials; effect technology transfer in the countryside;
+                                        and assist in the development of small-and-medium scale industries in identified growth centers.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-12 mb-4 stretch-card transparent">
+                            <div class="card bg-gradient-danger">
+                                <div class="card-header">
+                                    <p class="mb-2"><center><b>TUP Vision</b></center></p>
+                                </div>
+                                <div class="card-body" style="background-color: rgba(245, 245, 245, 0.4)">
+                                    <p class="mb-4">A premier state university with recognized excellence in engineering and technology education at par with leading universities in the ASEAN region.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
